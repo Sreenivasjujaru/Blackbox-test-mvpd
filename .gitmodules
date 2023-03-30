@@ -1,0 +1,3 @@
+[submodule "Blackbox-config-mvpd"]
+	path = Blackbox-config-mvpd
+	url = https://github.com/Sreenivasjujaru/Blackbox-config-mvpd.git
